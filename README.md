@@ -3,7 +3,7 @@
 
 - 🌱 I'm learning **the necessary technologies to be a fullstack developer**
 
-- 📫 How to contact me **victormolinadev@outlook.com**
+- 📫 How to contact me **molinavitillo@gmail.com**
 
 - ⚡ Fun fact **I currently live near the Antarctic continent❄️⛄**
 
